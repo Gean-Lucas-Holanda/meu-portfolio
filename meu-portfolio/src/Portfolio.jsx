@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Portfolio() {
-  return (
+  return ( 
     <div className="min-h-screen bg-gray-100 p-4">
       <div className="max-w-4xl mx-auto">
         <header className="text-center mb-8">
